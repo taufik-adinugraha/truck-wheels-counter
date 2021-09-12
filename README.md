@@ -5,7 +5,7 @@ Demo program to identify trucks based on the number of wheels using YOLO object 
 
 Dependencies
 ========================
-python 3.6
+python 3.6, cmake
 
 ```
 pip install -r requirements.txt
